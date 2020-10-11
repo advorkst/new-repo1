@@ -6,3 +6,6 @@
 Desc
 
 
+## Local Development
+
+1. open txt
